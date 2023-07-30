@@ -1,0 +1,32 @@
+====================================================
+1º executa o server.py
+2º abre a conexão com o client.py
+ ====================================================
+
+=====================================================
+**entrada no terminal python client.py:**
+
+Bem-vindo ao ChatBot Criptografado!
+Digite 'sair/' para encerrar o chat.
+
+Digite sua mensagem: sport club do recife 08 87 
+Digite sua mensagem: sair/
+
+Chat encerrado.
+=====================================================
+
+=====================================================
+**saída no terminal python server.py:**
+
+Conexão de: ('192.168.0.100', 50470)
+
+Bem-vindo ao ChatBot Criptografado!
+Digite 'sair/' para encerrar o chat.
+
+Mensagem criptografada recebida: 1128 1129 1101 3207 3880 3781 1305 848 3187 1185 3781 2019 1101 3781 3207 3333 1305 2286 1112 3333 3781 2926 1694 3781 1694 735
+Mensagem decriptografada: sport club do recife 08 87
+Mensagem criptografada recebida: 1128 1653 2286 3207 298
+Mensagem decriptografada: sair/
+
+Chat encerrado pelo cliente.
+=====================================================
